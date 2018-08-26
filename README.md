@@ -16,3 +16,8 @@ If you care to check out the multiplayer version of this, you can go to https://
 
 # PDF:
 [embed]https://gmonroe.org/classes/ComS-319/Assignment-1/task.pdf[/embed]
+<object data="https://gmonroe.org/classes/ComS-319/Assignment-1/task.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://gmonroe.org/classes/ComS-319/Assignment-1/task.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://gmonroe.org/classes/ComS-319/Assignment-1/task.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
